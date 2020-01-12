@@ -1,0 +1,47 @@
+button{margin-left: 45%;}
+
+form{border: purple solid 2px;
+    padding: 10px;
+    margin-bottom: 10px;}
+
+.header{
+    margin-bottom: 20px;
+}
+
+.header_item_two{
+    background-color: purple;
+    border: seashell 1px solid;
+    color: seashell;
+    font-size: 12px;
+    margin-left: 400px;
+    text-align: center; }
+
+h4{ 
+    background-color: purple;
+    border:seashell 1px solid; 
+    color: seashell;
+    text-align: center;}
+
+@media screen and (max-width: 992px) 
+{.container .header {width: 50%;} }
+      
+@media screen and (max-width: 600px) 
+{.container .header {width: 100%;} }
+
+
+.quote{margin-left: 170px;}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#ddcadd;
+    color: white;
+    text-align: center;
+    height: 40px;
+    border-top: 8px solid purple;
+  clear: both;}
+
+  

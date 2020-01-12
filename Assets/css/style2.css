@@ -1,0 +1,99 @@
+.centered1 {
+    background-color: purple;
+    border: purple solid 2px;
+    color: seashell;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    padding: 10px;
+    text-align: center;
+    width: auto;}
+
+.centered2 {
+    background-color: purple;
+    border: purple solid 2px;
+    color: seashell;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 10px;
+    text-align: center;
+    width: auto;}
+
+    .centered3 {
+        background-color: purple;
+        border: purple solid 2px;
+        color: seashell;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+        padding: 10px;
+        text-align: center;
+        width: auto;}
+
+    .centered4 {
+        background-color: purple;
+        border: purple solid 2px;
+        color: seashell;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+        padding: 10px;
+        text-align: center;
+        width: auto;}
+
+.header{
+    margin-bottom: 20px;
+}
+
+
+
+.header_item_two{
+    background-color: purple;
+    border: seashell 1px solid;
+    color: seashell;
+    font-size: 12px;
+    margin-left: 400px;
+    text-align: center; 
+}
+
+.img-fluid{
+    height: auto;
+    max-height: 100%;
+    margin-bottom: 20px;
+    max-width: 100%;
+    padding: 10px;
+    width: auto;}
+
+.pic{
+    background-color: purple;
+    color: seashell;
+    text-align: center;}
+
+    .para{
+    background-color: seashell;
+    color: 
+    purple;
+    text-align: center;}
+
+
+
+@media screen and (max-width: 992px) 
+{.container .header {width: 50%;} }
+      
+@media screen and (max-width: 600px) 
+{.container .header {width: 100%;} }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#ddcadd;
+    color: white;
+    text-align: center;
+    height: 40px;
+    border-top: 8px solid purple;
+  clear: both;}
+
+  
